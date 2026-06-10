@@ -1,5 +1,5 @@
 **Purpose**
-- The goal of this project is to gain hands-on experience with **Active Directory Domain Services (AD DS)** by building a domain environment in a virtual lab. I set up a **Windows Server Domain Controller** to manage users, groups, and policies, and connected Windows client machines to the domain. This project gave me practical experience with authentication, DNS/DHCP configuration, and group policy management in a simulated enterprise network.
+- The goal of this project is to gain hands-on experience with **Active Directory Domain Services (AD DS), Entra ID, Microsoft Intune** by building a domain environment in a virtual lab. I set up a **Windows Server Domain Controller** to manage users, groups, and policies, and connected Windows client machines to the domain. This project gave me practical experience with authentication, DNS/DHCP configuration, and group policy management in a simulated enterprise network.
 
 **Tools Used** 
 - VirtualBox
@@ -8,6 +8,8 @@
 - Kali Linux (attacker)
 - Active Directory Domain Services (AD DS)
 - DNS & DHCP roles
+- Entra ID (Azure AD)
+- Microsoft Intune
 
 **Overview of Steps**
 -  Installed and configured Windows Server as a Domain Controller.
