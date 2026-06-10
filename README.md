@@ -3,7 +3,7 @@
 
 **Lab Scenario**
 
-The NBA just merged into one giant corporation called MBA - Mark’s Ballers Association. Pick one team (OKC) and create their IAM environment. 
+The NBA just merged into one giant corporation called MBA - Mark’s Ballers Association. Pick one team (OKC Thunder) and create their IAM environment. 
 I will be the IAM Analyst responsible for onboarding the Thunder organization into the new MBA corporate identity system. 
 
 
