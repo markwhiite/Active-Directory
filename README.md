@@ -2,6 +2,7 @@
 - The goal of this project is to gain hands-on experience with **Active Directory Domain Services (AD DS), Entra ID, Microsoft Intune** by building a domain environment in a virtual lab. I set up a **Windows Server Domain Controller** to manage users, groups, and policies, and connected Windows client machines to the domain. This project gave me practical experience with authentication, DNS/DHCP configuration, and group policy management in a simulated enterprise network.
 
 **Lab Scenario**
+
 The NBA just merged into one giant corporation called MBA - Mark’s Ballers Association. Pick one team (OKC) and create their IAM environment. 
 I will be the IAM Analyst responsible for onboarding the Thunder organization into the new MBA corporate identity system. 
 
